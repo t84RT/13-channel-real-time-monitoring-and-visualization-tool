@@ -46,6 +46,9 @@
 
 ---
 
+<img width="1308" height="866" alt="image" src="https://github.com/user-attachments/assets/53514b33-e360-4980-9479-936981f975a3" />
+
+
 ## 演示视频
 
 ### 视频 1：基础功能演示
