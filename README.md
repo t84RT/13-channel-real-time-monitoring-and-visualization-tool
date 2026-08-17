@@ -46,6 +46,16 @@
 
 ---
 
+## 演示视频
+
+### 视频 1：基础功能演示
+![基础功能演示](https://github.com/t84RT/13-channel-real-time-monitoring-and-visualization-tool/blob/main/bandicam%202026-08-17%2016-09-15-002.mp4?raw=true)
+
+### 视频 2：速率统计与柱状图
+![速率统计与柱状图](https://github.com/t84RT/13-channel-real-time-monitoring-and-visualization-tool/blob/main/bandicam%202026-08-17%2016-21-24-782.mp4?raw=true)
+
+### 视频 3：波形图与仪表盘
+![波形图与仪表盘](https://github.com/t84RT/13-channel-real-time-monitoring-and-visualization-tool/blob/main/bandicam%202026-08-17%2016-23-36-733.mp4?raw=true)
 
 
 ## 项目概述
